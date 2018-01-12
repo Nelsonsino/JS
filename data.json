@@ -1,0 +1,118 @@
+{
+    "SMT-01": [
+        {
+            "ID": "001",
+            "DeptNo": "AB",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "002",
+            "DeptNo": "AB",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "003",
+            "DeptNo": "AB",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        }
+    ],
+    "SMT-02": [
+        {
+            "ID": "001",
+            "DeptNo": "BC",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "002",
+            "DeptNo": "BC",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "003",
+            "DeptNo": "BC",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        }
+    ],
+    "SMT-03": [
+        {
+            "ID": "001",
+            "DeptNo": "CD",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "002",
+            "DeptNo": "CD",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "003",
+            "DeptNo": "CD",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        }
+    ],
+    "SMT-04": [
+        {
+            "ID": "001",
+            "DeptNo": "DE",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "002",
+            "DeptNo": "DE",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        },
+        {
+            "ID": "003",
+            "DeptNo": "DE",
+            "Age": 20,
+            "AreaNo": "01",
+            "IsBorrow": false,
+            "IsAbsent": false,
+            "IsPost": true
+        }
+    ]
+}
