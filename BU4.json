@@ -1,0 +1,112 @@
+[
+    {
+        "line": "PACK-01",
+        "TargetNo": 100,
+        "ActualNo": 90,
+        "Difference": 10,
+        "acheiveRate": "90%",
+        "qualifiedNo": 88,
+        "unqualifiedNo": 2,
+        "qualifiedRate": "97.8%",
+        "productionRate": "50%"
+    },
+    {
+        "line": "PACK-02",
+        "TargetNo": 200,
+        "ActualNo": 180,
+        "Difference": 20,
+        "acheiveRate": "90%",
+        "qualifiedNo": 176,
+        "unqualifiedNo": 4,
+        "qualifiedRate": "97.8%",
+        "productionRate": "40%"
+    },
+    {
+        "line": "PACK-03",
+        "TargetNo": 100,
+        "ActualNo": 90,
+        "Difference": 10,
+        "acheiveRate": "90%",
+        "qualifiedNo": 88,
+        "unqualifiedNo": 2,
+        "qualifiedRate": "97.8%",
+        "productionRate": "20%"
+    },
+    {
+        "line": "PACK-04",
+        "TargetNo": 200,
+        "ActualNo": 180,
+        "Difference": 20,
+        "acheiveRate": "90%",
+        "qualifiedNo": 176,
+        "unqualifiedNo": 4,
+        "qualifiedRate": "97.8%",
+        "productionRate": "60%"
+    },
+    {
+        "line": "PACK-05",
+        "TargetNo": 100,
+        "ActualNo": 90,
+        "Difference": 10,
+        "acheiveRate": "90%",
+        "qualifiedNo": 88,
+        "unqualifiedNo": 2,
+        "qualifiedRate": "97.8%",
+        "productionRate": "60%"
+    },
+    {
+        "line": "PACK-06",
+        "TargetNo": 200,
+        "ActualNo": 180,
+        "Difference": 20,
+        "acheiveRate": "90%",
+        "qualifiedNo": 176,
+        "unqualifiedNo": 4,
+        "qualifiedRate": "97.8%",
+        "productionRate": "50%"
+    },
+    {
+        "line": "PACK-07",
+        "TargetNo": 100,
+        "ActualNo": 90,
+        "Difference": 10,
+        "acheiveRate": "90%",
+        "qualifiedNo": 88,
+        "unqualifiedNo": 2,
+        "qualifiedRate": "97.8%",
+        "productionRate": "60%"
+    },
+    {
+        "line": "PACK-08",
+        "TargetNo": 200,
+        "ActualNo": 180,
+        "Difference": 20,
+        "acheiveRate": "90%",
+        "qualifiedNo": 176,
+        "unqualifiedNo": 4,
+        "qualifiedRate": "97.8%",
+        "productionRate": "70%"
+    },
+    {
+        "line": "PACK-09",
+        "TargetNo": 100,
+        "ActualNo": 90,
+        "Difference": 10,
+        "acheiveRate": "90%",
+        "qualifiedNo": 88,
+        "unqualifiedNo": 2,
+        "qualifiedRate": "97.8%",
+        "productionRate": "60%"
+    },
+    {
+        "line": "PACK-10",
+        "TargetNo": 200,
+        "ActualNo": 180,
+        "Difference": 20,
+        "acheiveRate": "90%",
+        "qualifiedNo": 176,
+        "unqualifiedNo": 4,
+        "qualifiedRate": "97.8%",
+        "productionRate": "80%"
+    }
+]
